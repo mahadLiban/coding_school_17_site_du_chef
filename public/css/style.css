@@ -118,3 +118,15 @@ header {
 .imageDeChef {
   position: relative;
 }
+
+.bgBook {
+  background-image: url(../../img/book_table_bg.jpg);
+  padding: 200px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.pbgbook {
+  max-width: 800px;
+  padding-bottom: 350px;
+}
