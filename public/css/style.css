@@ -16,6 +16,14 @@ h2 {
   font-family: 'Courgette', cursive;
 }
 
+a:hover {
+  background-color: #c43844;
+}
+
+i:hover {
+  color: #c43844;
+}
+
 .carousel {
   filter: brightness(40%);
 }
@@ -207,6 +215,10 @@ h2 {
 
 .lesIcons i {
   color: #dbdbdb;
+}
+
+.lesIcons:hover {
+  color: #c43844;
 }
 
 .couleurRouge {
